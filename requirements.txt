@@ -1,7 +1,9 @@
 fastapi
 pydantic
+pydantic[email]
 uvicorn[standard]
 starlette
 python-jose
 python-multipart
-
+sqlmodel
+email-validator
